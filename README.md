@@ -1,5 +1,7 @@
 # musicGenreClassification
 
+Final Assignment for ECS7013P: Deep Learning for Audio and Music.
+
 In this assignment we were requested to implement two distinct deep learning methods in order to infer two aspects from a 
 chosen audio file. The proposed approach consisted of a first network that classifies an audio file into music or non-music.
 Given that the file is classified as music, it is then passed into the second network, where the task of music genre 
